@@ -10,7 +10,6 @@
 - 📫 How to reach me **harshitamakode@gmail.com**
 
 
-- 👩‍🎨 Know something interesting **I am a oil Painting Artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
