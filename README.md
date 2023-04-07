@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **harshitamakode@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ArhamKhanPathan/ArhamKhanPathan/blob/main/Arham_Resume.pdf](https://github.com/ArhamKhanPathan/ArhamKhanPathan/blob/main/Arham_Resume.pdf)
 
 - 👩‍🎨 Know something interesting **I am a oil Painting Artist**
 
