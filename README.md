@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Harshita Makode</h1>
+<h1 align="center">Hello 👋 This is Harshita Makode</h1>
 <h3 align="center">A passionate C++ and Python Developer</h3>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="coding" style="width: 1000px; height: 450px; position: absolute; right: 0; border-radius: 50%;" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-2002-m&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-2002-m" /> </p>
