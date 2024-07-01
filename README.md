@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 This is Harshita Makode</h1>
 <h3 align="center">Passionate Python Developer</h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://img.freepik.com/free-vector/woman-working-new-app_23-2148682102.jpg?w=996&t=st=1719865682~exp=1719866282~hmac=d65e4a4ebad25a4096f8de9c1fd5de7a5974d6055ae20d55f548c42bce3afbd0" width="570" height="428" align="center">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://img.freepik.com/free-vector/woman-working-new-app_23-2148682102.jpg?w=996&t=st=1719865682~exp=1719866282~hmac=d65e4a4ebad25a4096f8de9c1fd5de7a5974d6055ae20d55f548c42bce3afbd0" width="1000" height="700" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-2002-m&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-2002-m" /> </p>
 
 - 🔭 I'm currently working at **Pursuit Software** as a **Software Engineer Trainee**.
