@@ -3,7 +3,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="1000" height="700" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-2002-m&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-2002-m" /> </p>
 
-- 🔭 I'm currently working at **Pursuit Software** as a **Software Engineer Trainee**.
+- 🔭 I'm currently working at **DELOITTE USI** as a **Software Engineer**.
 
 - 📫 How to reach me **harshitamakode@gmail.com**
 
